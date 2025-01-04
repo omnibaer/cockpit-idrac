@@ -1,6 +1,6 @@
-# Cockpit Starter Kit
+# Cockpit Plugin for Dell iDRAC, forked from cockpit/starter-kit
 
-Scaffolding for a [Cockpit](https://cockpit-project.org/) module.
+[Cockpit](https://cockpit-project.org/) module for reading/displaying Dell iDRAC system information and metrics
 
 # Development dependencies
 
